@@ -4,7 +4,6 @@
 
 
 ## Minhas estatísticas do GitHub
-
 <!--
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=leeticia-araaujo&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats"  />
@@ -12,8 +11,10 @@
 
 <div>
    <img  src="https://github-readme-stats.vercel.app/api?username=leeticia-araaujo&show_icons=true&hide=issues&theme=dracula&hide_border=true&rank_icon=github&locale=pt-br"  />
-   <img align="right" height="150px" src="https://github.com/user-attachments/assets/e1747fce-48ae-4b33-8658-e5b79e47c71b" " />
+   <img align="right" height=130px src="https://github.com/user-attachments/assets/e1747fce-48ae-4b33-8658-e5b79e47c71b" " />
 </div>
+<br>
+
 
 ## Linguagens e tecnologias 
 
