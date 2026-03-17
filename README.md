@@ -41,4 +41,9 @@ Estudante de Sistemas para Internet e apaixonada por desenvolvimento web. Gosto 
   <img width="15" />
 </div>
 
+## Como me encontrar
+
+📫Email: leeharaujo@icloud.com <br>
+📫LinkedIn: https://www.linkedin.com/in/leeticia-araujo/
+
 ###
